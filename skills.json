@@ -1,0 +1,11 @@
+{
+  "Soft Skills": "Problem Solving, Team Collaboration, Continuous Learning",
+  "Frontend Development": "HTML5, CSS3, Bootstrap, TailwindCSS, React, Vue",
+  "Backend Frameworks": "Node.js (Express), Laravel, Flask",
+  "Database Management": "MySQL, PostgreSQL, MongoDB",
+  "Version Control": "Git, GitHub & GitLab",
+  "DevOps & Deployment": "CI/CD, ",
+  "Progressive Web Apps": "Service Workers",
+  "API Development": "RESTful API",
+  "Tools & Optimizations": "Docker, Redis, Vite"
+}
